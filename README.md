@@ -4,6 +4,8 @@ El proyecto utiliza Entity Framework Code First , por lo que tenemos que correr 
 
 La base de datos usado es SQL Server
 
+Para correr el proyecto en local, siga estos pasos:
+
 1. Crear base de datos EfeTest
    
    ```
